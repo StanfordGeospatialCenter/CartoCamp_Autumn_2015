@@ -6,16 +6,16 @@ If you have not registered, please register here (include link).
 
 ## Draft Schedule
 
-9:00am-9:15am - Coffee in Branner Entry
-9:15am - 9:45am - Introduction (SGC services, what is cartodb, etc.)
-10am - noon -  Intro to CartoDB through the lens of the humanities
-10am - noon -  Intro to the SQL/PostGIS in CartoDB
-noon- 1:30 - Lunch (un-catered)
-1:30 - 2:30 - Presentations
-2:45 - 4:45 - CartoDB APIs
-2:45 - 4:45 - Intermediate skills workshop (maybe realtime mapping? )
-4:45 - 5:00pm - Closing remarks/Evaluations
-5:30pm - ? Happy Hour at The Treehouse or Rose & Crown?
++ 9:00am-9:15am - Coffee in Branner Entry
++ 9:15am - 9:45am - Introduction (SGC services, what is cartodb, etc.)
++ 10am - noon -  Intro to CartoDB through the lens of the humanities
++ 10am - noon -  Intro to the SQL/PostGIS in CartoDB
++ noon- 1:30 - Lunch (un-catered)
++ 1:30 - 2:30 - Presentations
++ 2:45 - 4:45 - CartoDB APIs
++ 2:45 - 4:45 - Intermediate skills workshop (maybe realtime mapping? )
++ 4:45 - 5:00pm - Closing remarks/Evaluations
++ 5:30pm - ? Happy Hour at The Treehouse or Rose & Crown?
 
 ## Accounts
 
