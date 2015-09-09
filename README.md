@@ -13,7 +13,7 @@ If you have not registered, please register here (include link).
 + noon- 1:30 - Lunch (un-catered)
 + 1:30 - 2:30 - Presentations
 + 2:45 - 4:45 - CartoDB APIs
-+ 2:45 - 4:45 - Intermediate skills workshop (maybe realtime mapping? )
++ 2:45 - 4:45 - Intermediate skills workshop with realtime mapping
 + 4:45 - 5:00pm - Closing remarks/Evaluations
 + 5:30pm - ? Happy Hour at The Treehouse or Rose & Crown?
 
