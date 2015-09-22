@@ -2,7 +2,7 @@
 
 Autumn 2015 Quarter CartoDB Camp at Stanford University
 
-If you have not registered, please register here (include link).
+If you have not registered, please register here ([https://www.eventbrite.com/e/cartodb-camp-tickets-18722024078](https://www.eventbrite.com/e/cartodb-camp-tickets-18722024078)).
 
 ## Draft Schedule
 
@@ -19,7 +19,7 @@ If you have not registered, please register here (include link).
 
 ## Accounts
 
-Sign up for a free academic account at http://cartodb.com/signup?plan=academy
+Sign up for a free academic account at [http://cartodb.com/signup?plan=academy](http://cartodb.com/signup?plan=academy)
 
 ## Resources
 
