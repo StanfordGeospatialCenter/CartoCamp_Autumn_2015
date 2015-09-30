@@ -8,8 +8,8 @@ If you have not registered, please register here ([https://www.eventbrite.com/e/
 
 + 9:00am-9:15am - Coffee in Branner Entry
 + 9:15am - 9:45am - Introduction (SGC services, what is cartodb, etc.)
-+ 10am - noon -  Intro to CartoDB through the lens of the humanities
-+ 10am - noon -  Intro to the SQL/PostGIS in CartoDB
++ 10am - noon -  [Intro to CartoDB through the lens of the humanities](https://gist.github.com/makella/7747631a51473403d8cb)
++ 10am - noon -  [Intro to the SQL/PostGIS in CartoDB](https://gist.github.com/ohasselblad/721c7de3cff591635257)
 + noon- 1:30 - Lunch (un-catered)
 + 1:30 - 2:30 - Presentations
 + 2:45 - 4:45 - CartoDB APIs
@@ -19,7 +19,7 @@ If you have not registered, please register here ([https://www.eventbrite.com/e/
 
 ## Accounts
 
-Sign up for a free academic account at [http://cartodb.com/signup?plan=academy](http://cartodb.com/signup?plan=academy)
+Sign up for an account at [http://stanford.cartodb.com/signup](http://stanford.cartodb.com/signup)
 
 ## Resources
 
