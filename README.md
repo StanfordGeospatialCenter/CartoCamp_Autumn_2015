@@ -4,7 +4,7 @@ Autumn 2015 Quarter CartoDB Camp at Stanford University
 
 If you have not registered, please register here ([https://www.eventbrite.com/e/cartodb-camp-tickets-18722024078](https://www.eventbrite.com/e/cartodb-camp-tickets-18722024078)).
 
-## Draft Schedule
+## Schedule
 
 + 9:00am-9:15am - Coffee in Branner Entry
 + 9:15am - 9:45am - Introduction (SGC services, what is cartodb, etc.)
@@ -17,9 +17,17 @@ If you have not registered, please register here ([https://www.eventbrite.com/e/
 + 4:45 - 5:00pm - Closing remarks/Evaluations
 + 5:30pm - ? Happy Hour at The Treehouse or Rose & Crown?
 
+## Other workshops
+
 ## Accounts
 
 Sign up for an account at [http://stanford.cartodb.com/signup](http://stanford.cartodb.com/signup)
+
+## Amanda Hickman's Links
+
++ [Amanda's GitHub](http://github.com/amandabee/)
++ [CUNY Data Skills](http://amandabee.github.io/CUNY-data-skills/)
++ [Slides](http://freegreentea.info/talks/2015/cartocamp/#/)
 
 ## Resources
 
